@@ -1,0 +1,85 @@
+
+*.pma
+.laya/chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/GPUCache/data_0
+.laya/chrome/Default/Shortcuts
+*.db
+.laya/chrome/Default/Preferences
+.laya/chrome/Default/Network Persistent State
+.laya/chrome/Default/Network Action Predictor-journal
+.laya/chrome/Default/Network Action Predictor
+.laya/chrome/Default/Login Data-journal
+.laya/chrome/Default/Login Data
+.laya/chrome/Default/Local Storage/leveldb/MANIFEST-000001
+*.dat
+*.log
+*.old
+.laya/chrome/chrome_shutdown_ms.txt
+.laya/chrome/Crashpad/metadata
+.laya/chrome/Default/Cache/data_0
+.laya/chrome/Default/Cache/data_1
+.laya/chrome/Default/Cache/data_2
+.laya/chrome/Default/Cache/data_3
+.laya/chrome/Default/Cache/index
+.laya/chrome/Default/Cookies
+.laya/chrome/Default/Cookies-journal
+.laya/chrome/Default/Current Session
+.laya/chrome/Default/Current Tabs
+.laya/chrome/Default/data_reduction_proxy_leveldb/CURRENT
+.laya/chrome/Default/data_reduction_proxy_leveldb/LOCK
+.laya/chrome/Default/data_reduction_proxy_leveldb/LOG
+.laya/chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000010
+.laya/chrome/Default/Download Service/EntryDB/CURRENT
+.laya/chrome/Default/Download Service/EntryDB/LOCK
+.laya/chrome/Default/Download Service/EntryDB/LOG
+.laya/chrome/Default/Download Service/EntryDB/MANIFEST-000010
+.laya/chrome/Default/Extension State/CURRENT
+.laya/chrome/Default/Extension State/LOCK
+.laya/chrome/Default/Extension State/LOG
+.laya/chrome/Default/Extension State/MANIFEST-000001
+.laya/chrome/Default/Favicons
+.laya/chrome/Default/Favicons-journal
+.laya/chrome/Default/GPUCache/data_0
+.laya/chrome/Default/GPUCache/data_1
+.laya/chrome/Default/GPUCache/data_2
+.laya/chrome/Default/GPUCache/data_3
+.laya/chrome/Default/GPUCache/index
+.laya/chrome/Default/History
+.laya/chrome/Default/History Provider Cache
+.laya/chrome/Default/History-journal
+.laya/chrome/Default/Last Session
+.laya/chrome/Default/Last Tabs
+.laya/chrome/Default/Local Storage/leveldb/CURRENT
+.laya/chrome/Default/Local Storage/leveldb/LOCK
+.laya/chrome/Default/Local Storage/leveldb/LOG
+.laya/chrome/Default/previews_opt_out.db-journal
+.laya/chrome/Default/README
+.laya/chrome/Default/Secure Preferences
+.laya/chrome/Default/Session Storage/CURRENT
+.laya/chrome/Default/Session Storage/LOCK
+.laya/chrome/Default/Session Storage/LOG
+.laya/chrome/Default/Session Storage/MANIFEST-000001
+.laya/chrome/Default/Shortcuts-journal
+.laya/chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/GPUCache/data_1
+.laya/chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/GPUCache/data_2
+.laya/chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/GPUCache/data_3
+.laya/chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/GPUCache/index
+.laya/chrome/Default/Sync Data/LevelDB/CURRENT
+.laya/chrome/Default/Sync Data/LevelDB/LOCK
+.laya/chrome/Default/Sync Data/LevelDB/LOG
+.laya/chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+.laya/chrome/Default/Thumbnails/CURRENT
+.laya/chrome/Default/Thumbnails/LOCK
+.laya/chrome/Default/Thumbnails/LOG
+.laya/chrome/Default/Thumbnails/MANIFEST-000001
+.laya/chrome/Default/Top Sites
+.laya/chrome/Default/Top Sites-journal
+.laya/chrome/Default/Translate Ranker Model
+.laya/chrome/Default/Visited Links
+.laya/chrome/Default/Web Data
+.laya/chrome/Default/Web Data-journal
+.laya/chrome/Local State
+.laya/chrome/ShaderCache/GPUCache/data_0
+.laya/chrome/ShaderCache/GPUCache/data_1
+.laya/chrome/ShaderCache/GPUCache/data_2
+.laya/chrome/ShaderCache/GPUCache/data_3
+.laya/chrome/ShaderCache/GPUCache/index
